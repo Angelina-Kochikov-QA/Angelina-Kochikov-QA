@@ -4,8 +4,11 @@
 
 
 <h3>About me:</h3>
-- 👀 I love to build apps
-- 🌱 I’m currently learning React JS
+<ul>
+<li>- 👀 I love to build apps</li>
+<li>- 🌱 I’m currently learning React JS</li>
+  
+</ul>
 
 
 
